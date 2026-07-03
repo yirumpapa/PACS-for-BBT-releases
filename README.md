@@ -2,7 +2,7 @@
 
 > 🇰🇷 한국어 안내는 아래에 있습니다.
 
-**PACS for BBT** is a free chest-CT viewer built for practicing **Bronchial Branch Tracing (BBT)** — drawing bronchial branch diagrams for bronchoscopy planning.
+**PACS for BBT** is a free chest-CT viewer built for practicing **Bronchial Branch Tracing (BBT)** — drawing bronchial branch diagrams for bronchoscopy planning. It works with chest-CT **DICOM files** (load a DICOM series folder to get started).
 
 ![PACS for BBT screenshot](images/screenshot-main.png)
 
@@ -20,9 +20,6 @@ Grab **`PACS-for-BBT.exe`** from the [latest release](../../releases/latest). No
 
 > ⚠️ On first run, Windows SmartScreen may warn about an unknown publisher. Click **More info → Run anyway**.
 
-💡 If a folder named `DICOM_1` sits next to the exe, it loads automatically at startup.
-
-📁 Any chest-CT DICOM series works — you can download publicly available (anonymized) sample DICOM datasets from the internet and open them via **File ▸ Load DICOM Folder…**
 
 ### ⚠️ Disclaimer
 **For educational & training use only.** This software is NOT an approved or certified medical device (including SaMD) and has not been cleared by any regulatory authority (FDA / CE / MFDS). It must NOT be used for clinical diagnosis, treatment, or patient care.
@@ -31,7 +28,7 @@ Grab **`PACS-for-BBT.exe`** from the [latest release](../../releases/latest). No
 
 # 🇰🇷 한국어
 
-**PACS for BBT**는 기관지내시경을 위한 **기관지 가지 추적(BBT) 다이어그램 그리기 연습**용 무료 흉부 CT 뷰어입니다.
+**PACS for BBT**는 기관지내시경을 위한 **기관지 가지 추적(BBT) 다이어그램 그리기 연습**용 무료 흉부 CT 뷰어입니다. 흉부 CT **DICOM 파일**을 사용합니다 (DICOM 시리즈 폴더를 불러와서 시작).
 
 ![PACS for BBT 스크린샷](images/screenshot-main.png)
 
@@ -49,9 +46,6 @@ Grab **`PACS-for-BBT.exe`** from the [latest release](../../releases/latest). No
 
 > ⚠️ 처음 실행 시 Windows SmartScreen 경고가 뜰 수 있습니다. **추가 정보 → 실행**을 누르세요.
 
-💡 exe 옆에 `DICOM_1` 폴더를 두면 시작할 때 자동으로 불러옵니다.
-
-📁 흉부 CT DICOM 시리즈라면 무엇이든 사용할 수 있습니다 — 인터넷에서 공개(익명화)된 샘플 DICOM 데이터를 다운받아 **File ▸ Load DICOM Folder…** 로 열면 됩니다.
 
 ### ⚠️ 주의
 **교육·훈련 전용입니다.** 승인·인증된 의료기기가 아니며(SaMD 포함), 어떤 규제기관(FDA/CE/MFDS)의 허가도 받지 않았습니다. 임상 진단·치료·환자 진료에 사용할 수 없습니다.
