@@ -4,6 +4,10 @@
 
 **PACS for BBT** is a free chest-CT viewer built for practicing **Bronchial Branch Tracing (BBT)** — drawing bronchial branch diagrams for bronchoscopy planning.
 
+![PACS for BBT screenshot](images/screenshot-main.png)
+
+*Tracing an airway with right-click dots connected into a smooth 3D curve (green), and viewing the CT cross-section perpendicular to it. The translucent magenta rectangle shows where the section plane cuts through each of the three views, with real-time anatomical orientation labels (e.g. Superior-Left) in the section window.*
+
 ### Key features
 - **Three synchronized planes** (Axial / Coronal / Sagittal) with distance measurement, 3D sphere/ellipsoid annotation, and per-plane window presets (Lung / Bone / Soft)
 - **Airway tracing** — right-click to place dots along a bronchus, connect them into a smooth 3D curve
@@ -26,6 +30,10 @@ Grab **`PACS-for-BBT.exe`** from the [latest release](../../releases/latest). No
 # 🇰🇷 한국어
 
 **PACS for BBT**는 기관지내시경을 위한 **기관지 가지 추적(BBT) 다이어그램 그리기 연습**용 무료 흉부 CT 뷰어입니다.
+
+![PACS for BBT 스크린샷](images/screenshot-main.png)
+
+*우클릭으로 기관지를 따라 점을 찍어 부드러운 3D 곡선(초록)으로 연결하고, 그 곡선에 수직인 CT 단면을 보는 모습. 반투명 자주색 사각형이 세 평면 각각에서 절단면의 위치를 표시하며, 단면 창에는 해부학 방향 라벨(예: Superior-Left)이 실시간으로 표시됩니다.*
 
 ### 주요 기능
 - **3평면 동시 보기** (Axial / Coronal / Sagittal) — 거리 측정, 3D 구/타원 주석, 평면별 창 프리셋(Lung / Bone / Soft)
