@@ -22,6 +22,8 @@ Grab **`PACS-for-BBT.exe`** from the [latest release](../../releases/latest). No
 
 💡 If a folder named `DICOM_1` sits next to the exe, it loads automatically at startup.
 
+📁 Any chest-CT DICOM series works — you can download publicly available (anonymized) sample DICOM datasets from the internet and open them via **File ▸ Load DICOM Folder…**
+
 ### ⚠️ Disclaimer
 **For educational & training use only.** This software is NOT an approved or certified medical device (including SaMD) and has not been cleared by any regulatory authority (FDA / CE / MFDS). It must NOT be used for clinical diagnosis, treatment, or patient care.
 
@@ -48,6 +50,8 @@ Grab **`PACS-for-BBT.exe`** from the [latest release](../../releases/latest). No
 > ⚠️ 처음 실행 시 Windows SmartScreen 경고가 뜰 수 있습니다. **추가 정보 → 실행**을 누르세요.
 
 💡 exe 옆에 `DICOM_1` 폴더를 두면 시작할 때 자동으로 불러옵니다.
+
+📁 흉부 CT DICOM 시리즈라면 무엇이든 사용할 수 있습니다 — 인터넷에서 공개(익명화)된 샘플 DICOM 데이터를 다운받아 **File ▸ Load DICOM Folder…** 로 열면 됩니다.
 
 ### ⚠️ 주의
 **교육·훈련 전용입니다.** 승인·인증된 의료기기가 아니며(SaMD 포함), 어떤 규제기관(FDA/CE/MFDS)의 허가도 받지 않았습니다. 임상 진단·치료·환자 진료에 사용할 수 없습니다.
