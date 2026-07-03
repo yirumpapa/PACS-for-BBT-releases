@@ -4,6 +4,9 @@
 
 **PACS for BBT** is a free chest-CT viewer built for practicing **Bronchial Branch Tracing (BBT)** — drawing bronchial branch diagrams for bronchoscopy planning. It works with chest-CT **DICOM files** (load a DICOM series folder to get started).
 
+> [!IMPORTANT]
+> **Load AXIAL-plane DICOM data only.** Put a single axial series in the folder — the coronal and sagittal views are reconstructed automatically from it. If axial, coronal, and sagittal series are mixed in one folder, loading will fail or produce a corrupted volume.
+
 ![PACS for BBT screenshot](images/screenshot-main.png)
 
 *Tracing an airway with right-click dots connected into a smooth 3D curve (green), and viewing the CT cross-section perpendicular to it. The translucent magenta rectangle shows where the section plane cuts through each of the three views, with real-time anatomical orientation labels (e.g. Superior-Left) in the section window.*
@@ -29,6 +32,9 @@ Grab **`PACS-for-BBT.exe`** from the [latest release](../../releases/latest). No
 # 🇰🇷 한국어
 
 **PACS for BBT**는 기관지내시경을 위한 **기관지 가지 추적(BBT) 다이어그램 그리기 연습**용 무료 흉부 CT 뷰어입니다. 흉부 CT **DICOM 파일**을 사용합니다 (DICOM 시리즈 폴더를 불러와서 시작).
+
+> [!IMPORTANT]
+> **AXIAL(축상면) DICOM 데이터만 넣어야 합니다.** 폴더에 axial 시리즈 하나만 넣으세요 — coronal/sagittal 은 axial 로부터 자동으로 생성됩니다. 한 폴더에 axial·coronal·sagittal 시리즈가 섞여 있으면 로딩이 실패하거나 영상이 깨집니다.
 
 ![PACS for BBT 스크린샷](images/screenshot-main.png)
 
