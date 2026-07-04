@@ -9,12 +9,13 @@
 
 ![PACS for BBT screenshot](images/screenshot-main.png)
 
-*Tracing an airway with right-click dots connected into a smooth 3D curve (green), and viewing the CT cross-section perpendicular to it. The translucent magenta rectangle shows where the section plane cuts through each of the three views, with real-time anatomical orientation labels (e.g. Superior-Left) in the section window.*
+*Tracing an airway with dots connected into a smooth 3D curve (green), and viewing the CT cross-section perpendicular to it. The overlaid rectangle shows where the section plane cuts through each of the three views, with real-time anatomical orientation labels (e.g. Superior-Left) in the section window.*
 
 ### Key features
 - **Three synchronized planes** (Axial / Coronal / Sagittal) with distance measurement, 3D sphere/ellipsoid annotation, and per-plane window presets (Lung / Bone / Soft)
-- **Airway tracing** — right-click to place dots along a bronchus, connect them into a smooth 3D curve
-- **Perpendicular cross-sections** — view CT sections perpendicular to the traced airway; the cutting plane follows the curve with real-time anatomical orientation labels, and the main views show where the plane cuts
+- **Airway tracing** — use the Dots tool to place dots along a bronchus, then connect them into a smooth 3D curve
+- **Perpendicular cross-sections** — view CT sections perpendicular to the traced airway; the cutting plane follows the curve, and the main views show where it cuts
+- **Color-coded orientation** — the four edges of the section and the matching cutting-plane rectangle are color-coded, so you can instantly tell how the section is oriented in 3D
 - **Worklist** for switching between multiple studies, with per-study annotations
 - Built-in user manual (English / Korean) with PDF export
 
@@ -38,12 +39,13 @@ Grab **`PACS-for-BBT.exe`** from the [latest release](../../releases/latest). No
 
 ![PACS for BBT 스크린샷](images/screenshot-main.png)
 
-*우클릭으로 기관지를 따라 점을 찍어 부드러운 3D 곡선(초록)으로 연결하고, 그 곡선에 수직인 CT 단면을 보는 모습. 반투명 자주색 사각형이 세 평면 각각에서 절단면의 위치를 표시하며, 단면 창에는 해부학 방향 라벨(예: Superior-Left)이 실시간으로 표시됩니다.*
+*기관지를 따라 점을 찍어 부드러운 3D 곡선(초록)으로 연결하고, 그 곡선에 수직인 CT 단면을 보는 모습. 오버레이된 사각형이 세 평면 각각에서 절단면의 위치를 표시하며, 단면 창에는 해부학 방향 라벨(예: Superior-Left)이 실시간으로 표시됩니다.*
 
 ### 주요 기능
 - **3평면 동시 보기** (Axial / Coronal / Sagittal) — 거리 측정, 3D 구/타원 주석, 평면별 창 프리셋(Lung / Bone / Soft)
-- **기관지 추적** — 우클릭으로 기관지를 따라 점을 찍고 부드러운 3D 곡선으로 연결
-- **수직 단면 보기** — 추적한 기관지에 수직인 CT 단면을 곡선을 따라가며 확인. 해부학 방향 라벨 실시간 표시, 메인 화면에 절단면 위치 표시
+- **기관지 추적** — Dots 도구로 기관지를 따라 점을 찍고 부드러운 3D 곡선으로 연결
+- **수직 단면 보기** — 추적한 기관지에 수직인 CT 단면을 곡선을 따라가며 확인, 메인 화면에 절단면 위치 표시
+- **색으로 구분되는 방향** — 단면의 네 변과 절단면 사각형이 같은 색으로 구분되어, 단면이 3D에서 어느 방향인지 한눈에 파악
 - **워크리스트** — 여러 스터디 전환, 스터디별 주석 저장
 - 내장 사용 설명서 (한국어/영어, PDF 저장 가능)
 
