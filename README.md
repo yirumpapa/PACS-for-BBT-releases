@@ -18,7 +18,7 @@ This link always serves the newest version, so it never changes.
 
 ![PACS for BBT screenshot](images/screenshot-main.png)
 
-*Tracing an airway with dots connected into a smooth 3D curve (green), and viewing the CT cross-section perpendicular to it. The overlaid rectangle shows where the section plane cuts through each of the three views, with real-time anatomical orientation labels (e.g. Superior-Left) in the section window.*
+*Tracing an airway with dots connected into a smooth 3D curve (green), and viewing the CT cross-section perpendicular to it. The four edges are color-coded (top red, right yellow, bottom cyan, left violet) — and the cutting-plane rectangle in the Axial/Coronal/Sagittal views uses the same colors, so you can instantly read how the section is oriented in 3D. Orientation labels (e.g. Left-Superior) update live as you scroll.*
 
 ### Key features
 - **Three synchronized planes** (Axial / Coronal / Sagittal) with distance measurement, 3D sphere/ellipsoid annotation, and per-plane window presets (Lung / Bone / Soft)
@@ -57,7 +57,7 @@ This link always serves the newest version, so it never changes.
 
 ![PACS for BBT 스크린샷](images/screenshot-main.png)
 
-*기관지를 따라 점을 찍어 부드러운 3D 곡선(초록)으로 연결하고, 그 곡선에 수직인 CT 단면을 보는 모습. 오버레이된 사각형이 세 평면 각각에서 절단면의 위치를 표시하며, 단면 창에는 해부학 방향 라벨(예: Superior-Left)이 실시간으로 표시됩니다.*
+*기관지를 따라 점을 찍어 부드러운 3D 곡선(초록)으로 연결하고, 그 곡선에 수직인 CT 단면을 보는 모습. 네 변이 색으로 구분되고(위 빨강, 오른쪽 노랑, 아래 시안, 왼쪽 보라), Axial/Coronal/Sagittal 화면의 절단면 사각형도 같은 색을 써서 단면이 3D에서 어느 방향인지 바로 읽힙니다. 방향 라벨(예: Left-Superior)은 스크롤에 따라 실시간 갱신됩니다.*
 
 ### 주요 기능
 - **3평면 동시 보기** (Axial / Coronal / Sagittal) — 거리 측정, 3D 구/타원 주석, 평면별 창 프리셋(Lung / Bone / Soft)
